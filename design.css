@@ -1,17 +1,17 @@
 body {
-    background-color: #2d2435;
+    background-color: #ffffffff;
 }
 .loginform {
     text-align: center;
-    background-color: #9e72c3;
+    background-color: #0094f7ff;
     
     
 }
 
 h1 {
-    color:rgba(241, 23, 132, 1);
+    color:rgba(0, 0, 0, 1);
 }
 
 p {
-    color: rgb(255, 229, 242);
+    color: rgba(0, 0, 0, 1);
 }
